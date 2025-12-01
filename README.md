@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Christian Rojas 👋
 
-<!--
-**ariel-rojas/ariel-rojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am finishing my **Licentiate in Physics (M.Sc. equivalent)** at the **University of Buenos Aires (UBA)** 🇦🇷.
 
-Here are some ideas to get you started:
+Currently, I am conducting research for my thesis at the **Dynamical Systems Lab**, focusing on the reconstruction of nonlinear dynamical equations using **SINDy**.
+Professionally, I work as a **Data Scientist** at **DBLandIT**, developing Generative AI tools and data pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📂 Featured Projects
+
+* **[SINDy Bifurcation Discovery](LINK_A_TU_REPO_TESIS)**
+  * **Thesis Project:** A computational pipeline to discover governing differential equations from time-series data.
+  * **Goal:** To reconstruct the **Takens-Bogdanov bifurcation** and analyze multi-stable regimes using sparse regression.
+
+* **[Argentine Music Network Analysis](LINK_A_TU_REPO_SPOTIFY)**
+  * **Academic Project:** Topological analysis of the collaboration network among Argentine artists using Spotify data.
+  * **Goal:** To identify communities and central nodes in the local music ecosystem using Graph Theory.
