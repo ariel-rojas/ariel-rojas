@@ -1,6 +1,6 @@
 ### Hi, I'm Christian Rojas 👋
 
-I am finishing my **Licentiate in Physics (M.Sc. equivalent)** at the **University of Buenos Aires (UBA)** 🇦🇷.
+I am finishing my **Licentiate in Physics (B. Sc. + M.Sc. equivalent)** at the **University of Buenos Aires (UBA)** 🇦🇷.
 
 Currently, I am conducting research for my thesis at the **Dynamical Systems Lab**, focusing on the reconstruction of nonlinear dynamical equations using **SINDy**.
 Professionally, I work as a **Data Scientist** at **DBLandIT**, developing Generative AI tools and data pipelines.
