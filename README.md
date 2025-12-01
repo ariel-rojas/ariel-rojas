@@ -1,4 +1,4 @@
-### Hi, I'm Christian Rojas 👋
+### Hi, I'm Christian Ariel Rojas 👋
 
 I am finishing my **Licentiate in Physics (B. Sc. + M.Sc. equivalent)** at the **University of Buenos Aires (UBA)** 🇦🇷.
 
